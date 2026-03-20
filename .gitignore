@@ -4,3 +4,6 @@ iris_dtc.dot
 .virtual_documents
 
 W2026/Tutorials/T2.1_protoML/iris_decision_tree*
+
+*/llm-connector
+.env
